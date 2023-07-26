@@ -1,0 +1,10 @@
+* clazy
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/clazy/clazy.git   |
+| commit  |   |
+| systems | clazy |
+|---------+-------------------------------------------|
+
