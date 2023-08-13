@@ -2,8 +2,9 @@
 
 Lazy Calling in Common Lisp
 
+
 |---------+----------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/clazy/clazy.git |
-| commit  | 98b44c47                                           |
+| commit  | 98b44c4                                            |
 | systems | clazy                                              |
 |---------+----------------------------------------------------|
