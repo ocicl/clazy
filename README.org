@@ -5,6 +5,6 @@ Lazy Calling in Common Lisp
 
 |---------+----------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/clazy/clazy.git |
-| commit  | 98b44c4                                            |
+| commit  | fd95b3c                                            |
 | systems | clazy                                              |
 |---------+----------------------------------------------------|
